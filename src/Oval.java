@@ -1,9 +1,3 @@
-/**
- * Creates a simple graphical oval.
- *
- * @author David Riley
- * @author M. Allen
- */
 import javax.swing.*;
 import java.awt.*;
 
